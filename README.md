@@ -10,4 +10,4 @@ I chose to analyze the military spending of 10 countries which were assigned to 
 ## Using the Files
 * The .csv files show the raw data used for the project.
 * The .ipynb file shows all of my code. This file can be downloaded and ran to get the final output.
-* The .html file is the html version of my final report. Look at this if you are only interested in the output of the analysis. To view the html file, go to http://htmlpreview.github.io/?file:///C:/Users/12023/Desktop/First_Year_Material/Data_Mining/Project%201/Military%20Spending%20Analysis.html
+* The .html file is the html version of my final report. Look at this if you are only interested in the output of the analysis. To view the html file, go to http://htmlpreview.github.io/?https://github.com/jesseborg95/Military_Spending_Analysis/blob/master/Military%20Spending%20Analysis.html
